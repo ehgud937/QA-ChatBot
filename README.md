@@ -1,5 +1,9 @@
 # SSAFY 학사 규칙 QA 챗봇 프로젝트 최종 보고서
 
+
+https://github.com/user-attachments/assets/9c90d391-bd98-43cf-b2e4-1bf7beb4e29d
+
+
 ## 1. 프로젝트 개요
 
 ### 1.1. 프로젝트 목적
